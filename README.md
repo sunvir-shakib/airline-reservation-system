@@ -191,17 +191,11 @@ The database is named **`flight_booking_db`** and contains the following tables:
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of the homepage, flight search, booking form, and admin dashboard here)*
-
----
-
 ## 👥 Contributors
 
 This project was built and maintained by:
 
-- **[Sunvir Shakib](https://github.com/sunvir-shakib)** (Your GitHub link or name)
+- **[Sunvir Shakib](https://github.com/sunvir-shakib)** 
 - **[Nissan Barua](https://github.com/Nissanbarua)**
 
 We developed this system using a blend of **Vibe Coding** (AI-assisted development) and **Raw Code** to ensure both efficiency and high-quality implementation.
